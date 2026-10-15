@@ -1,0 +1,15 @@
+﻿int score = 2500;
+string name = ("Arden");
+bool isOpen = true;
+char tile = ('@');
+double attack = 18.75;
+Console.Write("A player score :");
+Console.WriteLine(score);
+Console.Write("A player Name:");
+Console.WriteLine(name);
+Console.Write("whether door is open or not : ");
+Console.WriteLine(isOpen);
+Console.Write("A grid character:");
+Console.WriteLine(tile);
+Console.Write("An attack power");
+Console.WriteLine(attack);
